@@ -9,7 +9,7 @@ This is the source code of the program:
 ```java
 public class HelloDevOps {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    System.out.println("Hello DevOps!");
   }
 }
 ```
