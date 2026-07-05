@@ -1,6 +1,6 @@
-# Hello world with Java :coffee:
+# Hello DevOps with Java :coffee:
 
-This is a simple **"Hello world"** done with **Java** programming language.
+This is a simple **"Hello DevOps"** done with **Java** programming language.
 
 ## Source code
 
