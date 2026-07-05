@@ -14,7 +14,7 @@ public class HelloDevOps {
 }
 ```
 
-Notice that `System.out.println("Hello world!");` shows the string `"Hello world!"` on the screen.
+Notice that `System.out.println("Hello DevOps!");` shows the string `"Hello DevOps!"` on the screen.
 
 ## Compile program
 
